@@ -19,6 +19,7 @@ import { siteConfig } from '../data/siteConfig';
 import { curriculumModules, whatYouGetItems, learningMethodology } from '../data/curriculumData';
 import { WeeklySchedule } from '../components/WeeklySchedule';
 import { ToolStackGrid } from '../components/ToolStackGrid';
+import { SkillsGridSection } from '../components/SkillsGridSection';
 
 export const CurriculumPage = ({ onOpenApply, onDownloadSyllabus }) => {
   const [openModuleId, setOpenModuleId] = useState(1);
@@ -102,7 +103,12 @@ export const CurriculumPage = ({ onOpenApply, onDownloadSyllabus }) => {
         </div>
       </section>
 
-      {/* 2. KGS Style Weekly Batch Timetable */}
+      {/* 2. 20-Skill Matrix Grid (Matching Reference Screenshot) */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <SkillsGridSection />
+      </section>
+
+      {/* 3. KGS Style Weekly Batch Timetable */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <WeeklySchedule />
       </section>
