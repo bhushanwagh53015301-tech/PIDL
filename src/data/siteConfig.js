@@ -122,7 +122,8 @@ export const siteConfig = {
       "50+ Active Clients Pan-India",
       "Proven Performance Marketing Results",
       "Real-World Agency Execution",
-      "Direct Leadership Mentorship"
+      "Direct Leadership Mentorship",
+      "Guaranteed Agency Internship"
     ]
   },
 
