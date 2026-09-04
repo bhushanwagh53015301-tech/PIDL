@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-route
 import { Header } from './components/Header';
 import { Footer } from './components/Footer';
 import { WhatsAppFab } from './components/WhatsAppFab';
+import { BackToTopButton } from './components/BackToTopButton';
 import { MobileStickyCTA } from './components/MobileStickyCTA';
 import { ApplyModal } from './components/ApplyModal';
 import { DemoClassModal } from './components/DemoClassModal';
@@ -109,6 +110,7 @@ export function App() {
 
         {/* Floating Actions */}
         <WhatsAppFab />
+        <BackToTopButton />
         <MobileStickyCTA onOpenApply={() => handleOpenApply("Digital Marketing")} />
 
         {/* Global Application Form Modal */}

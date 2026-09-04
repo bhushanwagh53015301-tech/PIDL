@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Star, Play, TrendingUp, Award, Quote, CheckCircle, ArrowRight } from 'lucide-react';
-import { testimonialStats, studentStories, videoTestimonials } from '../data/testimonialsData';
-import { StatCounter } from '../components/StatCounter';
+import { studentStories, videoTestimonials } from '../data/testimonialsData';
 import { VideoModal } from '../components/VideoModal';
 
 export const TestimonialsPage = ({ onOpenApply }) => {
@@ -25,17 +24,7 @@ export const TestimonialsPage = ({ onOpenApply }) => {
             Real stories from PIDL graduates who transitioned into agency roles, freelancing retainers, and high-paying performance marketing positions.
           </p>
 
-          {/* Stat Dashboard Bar */}
-          <div className="pt-6 grid grid-cols-2 md:grid-cols-4 gap-6 bg-zinc-900 p-6 rounded-2xl border border-zinc-800">
-            {testimonialStats.map((st, idx) => (
-              <StatCounter
-                key={idx}
-                value={st.value}
-                suffix={st.suffix}
-                label={st.label}
-              />
-            ))}
-          </div>
+
         </div>
       </section>
 
@@ -148,7 +137,7 @@ export const TestimonialsPage = ({ onOpenApply }) => {
             onClick={onOpenApply}
             className="bg-[#F7A400] text-black font-bold px-8 py-4 rounded-xl text-base hover:bg-[#E09300] transition-colors shadow-lg cursor-pointer"
           >
-            Apply Now for {testimonialStats[0].value} Career Launch
+            Apply Now for 60-Day Career Launch
           </button>
         </div>
       </section>

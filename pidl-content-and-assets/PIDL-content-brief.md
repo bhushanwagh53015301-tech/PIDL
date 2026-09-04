@@ -149,25 +149,19 @@ working in digital marketing, bringing real-world experience to the classroom.
 1. **Malhar Pandey** — Founder, Praavi Group | Digital Marketing Faculty.
    Real-world execution & growth strategy; political & startup campaign
    experience. Tags: Digital Marketing, Performance Strategy, Campaign Architecture
-2. **Rushikesh Hulge** — Head, PIDL | Academic & Program Leadership. Tags:
-   Academic Leadership, Curriculum Design, Program Management
-3. **Pooja Pandey** — Disruptor Chief | Graphic Design Faculty. Tags: Graphic
+2. **Pooja Pandey** — Disruptor Chief | Graphic Design Faculty. Tags: Graphic
    Design, Brand Visuals, Creative Direction
-4. **Aishwarya Kendle** — Head, Praavista | Web Development Faculty. Tags: Web
+3. **Aishwarya Kendle** — Head, Praavista | Web Development Faculty. Tags: Web
    Development, System Architecture, Tech Operations
-5. **Prajakta Inamke** — Disruptor Chief | Web Development Faculty. Tags: Web
+4. **Prajakta Inamke** — Disruptor Chief | Web Development Faculty. Tags: Web
    Development, Project Execution, UI Structuring
-6. **Poonam Tayde** — Disruptor Chief | Digital Marketing Faculty. Tags: Digital
+5. **Poonam Tayde** — Disruptor Chief | Digital Marketing Faculty. Tags: Digital
    Marketing, Paid Advertising, Campaign Optimization
-7. **Shreyash Miniyar** — Disruptor Chief | Video Editing Faculty. Tags: Video
+6. **Shreyash Miniyar** — Disruptor Chief | Video Editing Faculty. Tags: Video
    Editing, Reels Production, Visual Storytelling
-8. **Vaishnavi Pawar** — Disruptor Chief | Web Development Faculty. Tags: Web
-   Development, Responsive Design, Frontend Execution
-9. **Abhishek Jambhale** — Disruptor Chief | Web Development Faculty. Tags: Web
-   Development, Code Quality, Project Discipline
-10. **Vishal Shinde** — Disruptor Chief | Sales & Client Acquisition Faculty.
+7. **Vishal Shinde** — Disruptor Chief | Sales & Client Acquisition Faculty.
     Tags: Sales Strategy, Client Acquisition, Business Communication
-11. **Rutuja Ahire** — Tech Stack & SEO Head. SEO, website development,
+8. **Rutuja Ahire** — Tech Stack & SEO Head. SEO, website development
     marketing technology stack.
 
 (Faculty photos: `images/faculty/1.png` … `10.png`, plus named headshots like

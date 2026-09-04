@@ -24,7 +24,6 @@ import {
   ChevronRight
 } from 'lucide-react';
 import { siteConfig } from '../data/siteConfig';
-import { StatCounter } from '../components/StatCounter';
 import { ModeToggle } from '../components/ModeToggle';
 import { BatchCard } from '../components/BatchCard';
 import { CareerQuiz } from '../components/CareerQuiz';
@@ -281,13 +280,7 @@ export const HomePage = ({ onOpenApply, onOpenDemo, onDownloadSyllabus }) => {
 
           </div>
 
-          {/* Stats Bar */}
-          <div className="pt-6 grid grid-cols-2 md:grid-cols-4 gap-6 bg-zinc-900/60 p-6 rounded-2xl border border-zinc-800">
-            <StatCounter value="500" suffix="+" label="Successful Graduates" />
-            <StatCounter value="85" suffix="%" label="Job Placement Rate" />
-            <StatCounter value="40" suffix="%" label="Avg Salary Hike" />
-            <StatCounter value="4.8" suffix="/5" label="Student Rating" />
-          </div>
+
 
         </div>
       </section>
